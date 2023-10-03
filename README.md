@@ -1,5 +1,5 @@
 # Gruvbox Material Papirus Folders
-
+This is based on [Catppuccin's papirus-folders](https://github.com/catppuccin/papirus-folders)
 ## Usage
 
 1. Make sure You have [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) installed
