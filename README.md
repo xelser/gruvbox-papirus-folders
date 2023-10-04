@@ -12,10 +12,12 @@ This is based on [Catppuccin's papirus-folders](https://github.com/catppuccin/pa
     ```
     sudo cp -r src/* /usr/share/icons/Papirus  
     ```
-4. Use modified `papirus-folders` script to set colors of folders. For example to set Blue folders for Papirus-Dark theme:
+4. Use modified `papirus-folders` script to set colors of folders.
     ```
     ./papirus-folders -C gruv-mat-hard-dark-blue --theme Papirus-Dark
+    ./papirus-folders -C gruv-mat-hard-light-blue --theme Papirus-Light
     ```
+    > For example: Blue folders for both Papirus-Dark and Papirus-Light
 ## All available additional colors form this script:
 ```
 gruv-mat-hard-dark-aqua
@@ -33,7 +35,7 @@ gruv-mat-hard-light-purple
 gruv-mat-hard-light-red
 gruv-mat-hard-light-yellow
 ```
-### Visit [Papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) and [Catppuccin Papirus-Folders](https://github.com/catppuccin/papirus-folders) to learn more about this script
+#### Visit [Papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) and [Catppuccin Papirus-Folders](https://github.com/catppuccin/papirus-folders) to learn more about this script
 
 # Credits
 - https://github.com/catppuccin/papirus-folders
