@@ -15,9 +15,12 @@ This is based on [Catppuccin's papirus-folders](https://github.com/catppuccin/pa
 4. Use modified `papirus-folders` script to set colors of folders.
     ```
     ./papirus-folders -C gruv-mat-hard-dark-blue --theme Papirus-Dark
+    ```
+    > For example: Blue folders for Papirus-Dark (for dark themes)
+    ```
     ./papirus-folders -C gruv-mat-hard-light-blue --theme Papirus-Light
     ```
-    > For example: Blue folders for both Papirus-Dark and Papirus-Light
+    > For example: Blue folders for Papirus-Light (for light themes)
 ## All available additional colors form this script:
 ```
 gruv-mat-hard-dark-aqua
