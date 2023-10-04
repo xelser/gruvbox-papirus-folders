@@ -25,6 +25,13 @@ gruv-mat-hard-dark-orange
 gruv-mat-hard-dark-purple
 gruv-mat-hard-dark-red
 gruv-mat-hard-dark-yellow
+gruv-mat-hard-light-aqua
+gruv-mat-hard-light-blue
+gruv-mat-hard-light-green
+gruv-mat-hard-light-orange
+gruv-mat-hard-light-purple
+gruv-mat-hard-light-red
+gruv-mat-hard-light-yellow
 ```
 ### Visit [Papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) and [Catppuccin Papirus-Folders](https://github.com/catppuccin/papirus-folders) to learn more about this script
 
