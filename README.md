@@ -6,7 +6,7 @@ This is based on [Catppuccin's papirus-folders](https://github.com/catppuccin/pa
 2. Clone this repository and change to cloned directory:
     ```
     git clone https://github.com/xelser/gruvbox-papirus-folders.git
-    cd papirus-folders
+    cd gruvbox-papirus-folders
     ```
 3. Copy content of `src` to `/usr/share/icons/Papirus/`:
     ```
