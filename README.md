@@ -4,9 +4,7 @@ This is based on Catppuccin's [papirus-folders](https://github.com/catppuccin/pa
 | Gruvbox | Red | Orange | Yellow | Green | Aqua | Blue | Purple |
 |:-------:|:---:|:------:|:------:|:-----:|:----:|:----:|:------:|
 | Material |![Red](src/64x64/places/user-gruvbox-material-red-home.svg)|![Orange](src/64x64/places/user-gruvbox-material-orange-home.svg)|![Yellow](src/64x64/places/user-gruvbox-material-yellow-home.svg)|![Green](src/64x64/places/user-gruvbox-material-green-home.svg)|![aqua](src/64x64/places/user-gruvbox-material-aqua-home.svg)|![Blue](src/64x64/places/user-gruvbox-material-blue-home.svg)|![Purple](src/64x64/places/user-gruvbox-material-purple-home.svg)|
-|:-------:|:---:|:------:|:------:|:-----:|:----:|:----:|:------:|
 | Mix |![Red](src/64x64/places/user-gruvbox-mix-red-home.svg)|![Orange](src/64x64/places/user-gruvbox-mix-orange-home.svg)|![Yellow](src/64x64/places/user-gruvbox-mix-yellow-home.svg)|![Green](src/64x64/places/user-gruvbox-mix-green-home.svg)|![aqua](src/64x64/places/user-gruvbox-mix-aqua-home.svg)|![Blue](src/64x64/places/user-gruvbox-mix-blue-home.svg)|![Purple](src/64x64/places/user-gruvbox-mix-purple-home.svg)|
-|:-------:|:---:|:------:|:------:|:-----:|:----:|:----:|:------:|
 | Original |![Red](src/64x64/places/user-gruvbox-original-red-home.svg)|![Orange](src/64x64/places/user-gruvbox-original-orange-home.svg)|![Yellow](src/64x64/places/user-gruvbox-original-yellow-home.svg)|![Green](src/64x64/places/user-gruvbox-original-green-home.svg)|![aqua](src/64x64/places/user-gruvbox-original-aqua-home.svg)|![Blue](src/64x64/places/user-gruvbox-original-blue-home.svg)|![Purple](src/64x64/places/user-gruvbox-original-purple-home.svg)|
 
 # Install
