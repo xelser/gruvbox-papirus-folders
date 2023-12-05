@@ -8,7 +8,7 @@ This is based on Catppuccin's [papirus-folders](https://github.com/catppuccin/pa
 | Original |![Red](src/64x64/places/user-gruvbox-original-red-home.svg)|![Orange](src/64x64/places/user-gruvbox-original-orange-home.svg)|![Yellow](src/64x64/places/user-gruvbox-original-yellow-home.svg)|![Green](src/64x64/places/user-gruvbox-original-green-home.svg)|![aqua](src/64x64/places/user-gruvbox-original-aqua-home.svg)|![Blue](src/64x64/places/user-gruvbox-original-blue-home.svg)|![Purple](src/64x64/places/user-gruvbox-original-purple-home.svg)|
 
 # Install
-1. Make sure You have [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) installed
+1. Make sure you have [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) installed
 2. Clone this repository and change to cloned directory:
 
 ```sh
